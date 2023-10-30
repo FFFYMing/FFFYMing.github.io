@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Applied Mathematics at Lehigh University. My research focus on machine learning and deep learning, uncertainty quantification, numerical methods. I've published 4 first-author peer-reviewed papers and delivered 10+ talks in national and world wide conferences. Prior to joining Lehigh, I achieve my Bachelor degree in mathematics (conc. on probability and statistics). You can find my CV [here](../assest/CV.pdf)
+I'm a PhD candidate in Applied Mathematics at Lehigh University. My research focus on machine learning and deep learning, uncertainty quantification, numerical methods. I've published 4 first-author peer-reviewed papers and delivered 10+ talks in national and world wide conferences. Prior to joining Lehigh, I achieve my Bachelor degree in mathematics (conc. on probability and statistics). You can find my CV [here](../assest/CV_Yiming Fan_Oct2023.pdf)
